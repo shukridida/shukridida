@@ -7,7 +7,7 @@
 💬 **Ask me about:** Full stack development, Flask, React, and Cloudinary integration.  
 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/shukridida)  
 😄 **Pronouns:** She/Her  
-⚡ **Fun fact:** I can speak three languages!
+⚡ **Fun fact:** I enjoy learning about new technologies and tools.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shukridida)
@@ -27,3 +27,4 @@
 [![](https://visitcount.itsvg.in/api?id=shukridida&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
